@@ -12,6 +12,7 @@
 </p>
 
 ## Install
+## Install
 
 ```bash
 yarn add vuepress -D
